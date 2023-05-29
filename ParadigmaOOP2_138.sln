@@ -15,6 +15,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "noPewarisan_138", "noPewari
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "enkapsulasi_138", "enkapsulasi_138\enkapsulasi_138.vcxproj", "{B3B2C7E2-3C27-4089-B67D-AC0F5FFCF862}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "abstraksi_138", "abstraksi_138\abstraksi_138.vcxproj", "{2D1420AE-F515-43A1-9FCE-437B76765A6E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -71,6 +73,14 @@ Global
 		{B3B2C7E2-3C27-4089-B67D-AC0F5FFCF862}.Release|x64.Build.0 = Release|x64
 		{B3B2C7E2-3C27-4089-B67D-AC0F5FFCF862}.Release|x86.ActiveCfg = Release|Win32
 		{B3B2C7E2-3C27-4089-B67D-AC0F5FFCF862}.Release|x86.Build.0 = Release|Win32
+		{2D1420AE-F515-43A1-9FCE-437B76765A6E}.Debug|x64.ActiveCfg = Debug|x64
+		{2D1420AE-F515-43A1-9FCE-437B76765A6E}.Debug|x64.Build.0 = Debug|x64
+		{2D1420AE-F515-43A1-9FCE-437B76765A6E}.Debug|x86.ActiveCfg = Debug|Win32
+		{2D1420AE-F515-43A1-9FCE-437B76765A6E}.Debug|x86.Build.0 = Debug|Win32
+		{2D1420AE-F515-43A1-9FCE-437B76765A6E}.Release|x64.ActiveCfg = Release|x64
+		{2D1420AE-F515-43A1-9FCE-437B76765A6E}.Release|x64.Build.0 = Release|x64
+		{2D1420AE-F515-43A1-9FCE-437B76765A6E}.Release|x86.ActiveCfg = Release|Win32
+		{2D1420AE-F515-43A1-9FCE-437B76765A6E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
